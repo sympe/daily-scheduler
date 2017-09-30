@@ -13,4 +13,6 @@
 //= require rails-ujs
 //= require turbolinks
 //= require jquery
+//= require moment
+//= require fullcalendar
 //= require_tree .
