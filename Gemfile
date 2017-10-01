@@ -37,6 +37,8 @@ gem 'webpacker', github: 'rails/webpacker'
 gem 'fullcalendar-rails'
 gem 'momentjs-rails'
 
+# bootstrap
+gem 'bootstrap-sass'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
